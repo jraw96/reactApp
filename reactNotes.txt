@@ -1,0 +1,17 @@
+What are actions
+
+What are reducers
+Describe how the application state changes
+
+Reducers specify how the application's state changes in response to actions sent to the store. 
+Remember that actions only describe what happened, but don't describe how the application's state changes.
+
+What is redux
+
+To use redux we use three things:
+1. redux
+2. redux-react
+3. redux-thunk
+
+The redux store:
+Holds the state of the application. The function getState() returns the current state tree of the application
